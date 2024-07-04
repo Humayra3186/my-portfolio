@@ -99,7 +99,7 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    position: absolute;
+    position: relative;
     bottom: 40px;
     top: 100px;
     
